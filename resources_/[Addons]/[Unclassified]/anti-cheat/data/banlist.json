@@ -1,0 +1,17 @@
+[{
+    "reason":"Player has tried to trigger 'esx_openBossMenu'",
+    "identifiers":["steam:000000000000000","license:0000000000000000000000000000000000000000","xbl:0000000000000000","live:0000000000000000","discord:000000000000000000","fivem:000000","ip:123.123.123.123"],
+    "name":"ExampleUser001"
+  },{
+    "reason":"Le joueur a une arme blacklisté: WEAPON_GRENADELAUNCHER_SMOKE",
+    "identifiers":["steam:11000014003b400","license:a2e078f2676ed85102218550eae10730d7ead00c","xbl:2535445697306185","live:1055518326193677","discord:692368907620581377","ip:91.165.122.184"],
+    "name":"Luciano_Elerno__"
+  },{
+    "reason":"Le joueur a une arme blacklisté: WEAPON_MINIGUN",
+    "identifiers":["steam:11000011955e676","license:fdd1706702807474c8b12ccf07be7e8a9c4926b0","live:985154523817539","discord:283698787246014465","ip:92.95.191.182"],
+    "name":"Jimmy Rodriguez"
+  },{
+    "identifiers":["license:1215cf93d4b2685af9dc9962fd51d14c88a17286","discord:311036364877463553"],
+    "reason":"Le joueur a une arme blacklisté: WEAPON_GRENADELAUNCHER_SMOKE, nouveau identifiant trouvé - premier ban Luciano_Elerno__",
+    "name":"Anonyme"
+  }]
