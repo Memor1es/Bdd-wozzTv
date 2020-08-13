@@ -1,0 +1,1 @@
+ALTER TABLE users ADD lastPosition VARCHAR(255) NULL;
